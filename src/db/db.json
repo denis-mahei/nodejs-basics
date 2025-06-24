@@ -1,20 +1,38 @@
 [
   {
-    "name": "Oriental Ceramic Hat",
-    "price": "727.95",
-    "category": "Baby",
-    "description": "Ergonomic Bacon made with Bronze for all-day each support"
+    "id": "7715ba2c-4847-4ffa-8bad-1d4c11c89c8d",
+    "name": "Electronic Silk Chicken",
+    "price": "959.29",
+    "category": "Garden",
+    "description": "Our smoky-inspired Chips brings a taste of luxury to your innocent lifestyle"
   },
   {
-    "name": "Frozen Plastic Chair",
-    "price": "274.99",
+    "id": "8326eed2-bbfe-4f31-a90f-e719838f29e0",
+    "name": "Practical Plastic Fish",
+    "price": "873.39",
+    "category": "Automotive",
+    "description": "Fresh Hat designed with Gold for ecstatic performance"
+  },
+  {
+    "id": "b3000e7b-c469-43c6-89d4-ee7deb9717c6",
+    "name": "Fantastic Rubber Table",
+    "price": "582.25",
     "category": "Beauty",
-    "description": "The Open-source clear-thinking website Towels offers reliable performance and livid design"
+    "description": "Discover the monkey-like agility of our Chips, perfect for criminal users"
   },
   {
-    "name": "Rustic Concrete Sausages",
-    "price": "959.39",
-    "category": "Clothing",
-    "description": "Innovative Soap featuring sunny technology and Granite construction"
+    "id": "b4b489f7-e9fb-4529-8afd-a6e18c7d88e0",
+    "name": "Tasty Cotton Tuna",
+    "price": "812.49",
+    "category": "Kids",
+    "description": "Tasty Table designed with Silk for bruised performance"
+  },
+  {
+    "id": "8571128d-3491-48a8-85c7-0783d5bcb0a4",
+    "name": "Bespoke Bronze Cheese",
+    "price": "879.29",
+    "category": "Health",
+    "description": "New magenta Fish with ergonomic design for proper comfort"
   }
 ]
+

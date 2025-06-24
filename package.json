@@ -9,6 +9,9 @@
     "add": "node src/scripts/addOneProduct.js",
     "all": "node src/scripts/getAllProducts.js",
     "rm-last": "node src/scripts/removeLastProducts.js",
+    "rm-all": "node src/scripts/removeAllProducts.js",
+    "get-product-id": "node src/scripts/getProductsById.js",
+    "get-min": "node src/scripts/getProductsByMinPrice.js",
     "lint": "eslint src/**/*.js",
     "start": "node ./src/index.js",
     "dev": "nodemon src/index.js"
