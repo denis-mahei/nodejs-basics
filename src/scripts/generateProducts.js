@@ -9,4 +9,4 @@ export const generateProducts = async (number) => {
   return await writeProducts(allProducts);
 };
 
-generateProducts(5);
+generateProducts(10);

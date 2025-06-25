@@ -14,6 +14,8 @@
     "get-min": "node src/scripts/getProductsByMinPrice.js",
     "get-total": "node src/scripts/getTotalPrice.js",
     "mod": "node src/scripts/modifyProducts.js",
+    "group": "node src/scripts/groupProductsByCategories.js",
+    "most": "node src/scripts/mostExpencieveProducts.js",
     "lint": "eslint src/**/*.js",
     "start": "node ./src/index.js",
     "dev": "nodemon src/index.js"

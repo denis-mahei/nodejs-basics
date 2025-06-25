@@ -1,52 +1,62 @@
 [
   {
-    "name": "Frozen Concrete Bike",
-    "price": "582.69",
-    "category": "Outdoors"
+    "name": "Tasty Cotton Shoes",
+    "price": "634.27",
+    "category": "Computers",
+    "description": "The magenta Chips combines United States of America aesthetics with Copernicium-based durability"
   },
   {
-    "name": "Unbranded Bamboo Keyboard",
-    "price": "671.39",
-    "category": "Movies"
+    "name": "Ergonomic Cotton Cheese",
+    "price": "135.95",
+    "category": "Computers",
+    "description": "Frozen Soap designed with Bronze for intrepid performance"
   },
   {
-    "name": "Modern Marble Gloves",
-    "price": "759.59",
-    "category": "Electronics"
+    "name": "Bespoke Silk Tuna",
+    "price": "488.59",
+    "category": "Clothing",
+    "description": "Savor the tender essence in our Pizza, designed for self-assured culinary adventures"
   },
   {
-    "name": "Luxurious Granite Bacon",
-    "price": "571.09",
-    "category": "Automotive"
+    "name": "Rustic Concrete Fish",
+    "price": "895.09",
+    "category": "Clothing",
+    "description": "Stylish Bacon designed to make you stand out with glittering looks"
   },
   {
-    "name": "Tasty Cotton Towels",
-    "price": "772.69",
-    "category": "Automotive"
+    "name": "Small Wooden Car",
+    "price": "360.60",
+    "category": "Grocery",
+    "description": "Kuphal - Prohaska's most advanced Soap technology increases smug capabilities"
   },
   {
-    "name": "Electronic Concrete Car",
-    "price": "171.29",
-    "category": "Baby"
+    "name": "Licensed Aluminum Shoes",
+    "price": "157.39",
+    "category": "Music",
+    "description": "Introducing the Samoa-inspired Soap, blending courageous style with local craftsmanship"
   },
   {
-    "name": "Tasty Gold Salad",
-    "price": "677.59",
-    "category": "Garden"
+    "name": "Elegant Concrete Chips",
+    "price": "14.85",
+    "category": "Health",
+    "description": "Savor the golden essence in our Towels, designed for miserly culinary adventures"
   },
   {
-    "name": "Handcrafted Concrete Salad",
-    "price": "396.10",
-    "category": "Games"
+    "name": "Practical Marble Ball",
+    "price": "851.09",
+    "category": "Computers",
+    "description": "Featuring Lutetium-enhanced technology, our Shirt offers unparalleled equatorial performance"
   },
   {
-    "name": "Gorgeous Gold Computer",
-    "price": "954.79",
-    "category": "Sports"
+    "name": "Intelligent Steel Towels",
+    "price": "551.99",
+    "category": "Tools",
+    "description": "Discover the deer-like agility of our Fish, perfect for poor users"
   },
   {
-    "name": "Intelligent Concrete Shirt",
-    "price": "872.69",
-    "category": "Outdoors"
+    "name": "Oriental Bronze Computer",
+    "price": "501.69",
+    "category": "Clothing",
+    "description": "Ergonomic Salad made with Gold for all-day live support"
   }
 ]
