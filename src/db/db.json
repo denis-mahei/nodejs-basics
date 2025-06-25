@@ -1,38 +1,52 @@
 [
   {
-    "id": "7715ba2c-4847-4ffa-8bad-1d4c11c89c8d",
-    "name": "Electronic Silk Chicken",
-    "price": "959.29",
-    "category": "Beauty",
-    "description": "Our smoky-inspired Chips brings a taste of luxury to your innocent lifestyle"
+    "name": "Frozen Concrete Bike",
+    "price": "582.69",
+    "category": "Outdoors"
   },
   {
-    "id": "8326eed2-bbfe-4f31-a90f-e719838f29e0",
-    "name": "Practical Plastic Fish",
-    "price": "873.39",
-    "category": "Kids",
-    "description": "Fresh Hat designed with Gold for ecstatic performance"
+    "name": "Unbranded Bamboo Keyboard",
+    "price": "671.39",
+    "category": "Movies"
   },
   {
-    "id": "b3000e7b-c469-43c6-89d4-ee7deb9717c6",
-    "name": "Fantastic Rubber Table",
-    "price": "582.25",
-    "category": "Beauty",
-    "description": "Discover the monkey-like agility of our Chips, perfect for criminal users"
+    "name": "Modern Marble Gloves",
+    "price": "759.59",
+    "category": "Electronics"
   },
   {
-    "id": "b4b489f7-e9fb-4529-8afd-a6e18c7d88e0",
-    "name": "Tasty Cotton Tuna",
-    "price": "812.49",
-    "category": "Beauty",
-    "description": "Tasty Table designed with Silk for bruised performance"
+    "name": "Luxurious Granite Bacon",
+    "price": "571.09",
+    "category": "Automotive"
   },
   {
-    "id": "8571128d-3491-48a8-85c7-0783d5bcb0a4",
-    "name": "Bespoke Bronze Cheese",
-    "price": "879.29",
-    "category": "Health",
-    "description": "New magenta Fish with ergonomic design for proper comfort"
+    "name": "Tasty Cotton Towels",
+    "price": "772.69",
+    "category": "Automotive"
+  },
+  {
+    "name": "Electronic Concrete Car",
+    "price": "171.29",
+    "category": "Baby"
+  },
+  {
+    "name": "Tasty Gold Salad",
+    "price": "677.59",
+    "category": "Garden"
+  },
+  {
+    "name": "Handcrafted Concrete Salad",
+    "price": "396.10",
+    "category": "Games"
+  },
+  {
+    "name": "Gorgeous Gold Computer",
+    "price": "954.79",
+    "category": "Sports"
+  },
+  {
+    "name": "Intelligent Concrete Shirt",
+    "price": "872.69",
+    "category": "Outdoors"
   }
 ]
-

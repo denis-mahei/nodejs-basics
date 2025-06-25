@@ -13,6 +13,7 @@
     "get-product-id": "node src/scripts/getProductsById.js",
     "get-min": "node src/scripts/getProductsByMinPrice.js",
     "get-total": "node src/scripts/getTotalPrice.js",
+    "mod": "node src/scripts/modifyProducts.js",
     "lint": "eslint src/**/*.js",
     "start": "node ./src/index.js",
     "dev": "nodemon src/index.js"
