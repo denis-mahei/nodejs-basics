@@ -1,17 +1,29 @@
-import express from 'express';
-import * as fs from 'node:fs/promises';
-import { PATH_DB } from './constants/products.js';
-
-const app = express();
-
-const PORT = 3000;
-
-app.get('/products', async (req, res) => {
-  const data = await fs.readFile(PATH_DB, 'utf-8');
-  const products = JSON.parse(data);
-  res.json(products);
-});
-
-app.listen(PORT, () => {
-  console.log(`Server running ${PORT}`);
-});
+// import express from 'express';
+// import cors from 'cors';
+//
+// const exp = express();
+//
+// exp.use(cors());
+//
+// const PORT = 8080;
+//
+// exp.get('/movies', (req, res) => {
+//   res.json([
+//     {
+//       id: 1,
+//       name: 'Movie 1',
+//     },
+//     {
+//       id: 1,
+//       name: 'Movie-2',
+//     },
+//   ]);
+// });
+//
+// exp.listen(PORT, (e) => {
+//   if (e) {
+//     throw e;
+//   }
+//
+//   console.log(`Server is running on ${PORT}`);
+// });
